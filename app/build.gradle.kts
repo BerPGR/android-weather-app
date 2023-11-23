@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "br.com.bernardo.weatherapp"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "br.com.bernardo.weatherapp"
